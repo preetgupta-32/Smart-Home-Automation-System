@@ -97,7 +97,7 @@ public class SmartHomeSystem {
                 throw new DeviceNotFoundException("Device with ID " + deviceId + " not found.");
             }
         } else {
-            throw new AuthenticationException("User does not have permission to remove devices");
+            throw new AuthenticationException("User does not have permission to remove devices currently");
         }
     }
     
