@@ -1,0 +1,15 @@
+2025-04-26 16:40:30 - System initialized
+2025-04-26 16:40:30 - User logged in: admin
+2025-04-26 16:40:30 - Device added: Living Room Light by admin
+2025-04-26 16:40:30 - Device added: Bedroom Fan by admin
+2025-04-26 16:40:30 - Device added: Living Room AC by admin
+2025-04-26 16:40:30 - Device added: Main Security System by admin
+2025-04-26 16:40:30 - User logged out: admin
+2025-04-26 16:40:43 - User logged in: admin
+2025-04-26 16:41:43 - System initialized
+2025-04-26 16:41:43 - User logged in: admin
+2025-04-26 16:41:43 - Device added: Living Room Light by admin
+2025-04-26 16:41:43 - Device added: Bedroom Fan by admin
+2025-04-26 16:41:43 - Device added: Living Room AC by admin
+2025-04-26 16:41:43 - Device added: Main Security System by admin
+2025-04-26 16:41:43 - User logged out: admin
